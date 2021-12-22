@@ -12,3 +12,5 @@ https://github.com/dieres2010/run_buddy.git
 
 ## Contribution
 Made with ❤️ by [Diego Restrepo]
+
+# Run Buddy Inc
